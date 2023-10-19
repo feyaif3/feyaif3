@@ -3,7 +3,7 @@
    I am a Computer Science graduate who is undertaking a Master's Degree in Cyber Security.
   
 ### 🔭 I’m currently working on;
-<p>A self-taught path in full-stack development, with my main focus being on Python. To ensure a thorough grasp of the concepts, I am utilising resources like;
+<p>A self-taught path in full-stack development, with my main focus being on Python. To ensure a thorough grasp of the language, I am utilising resources like;
    <ul>
       <li><a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody">FreeCodeCamp</a>,</li>
       <li><a href="https://www.udemy.com/course/100-days-of-code/"> Python Udemy Bootcamp </a></li>
